@@ -1,0 +1,45 @@
+body {
+  background: #EEE;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  height: 50%;
+  left: 10%;
+  margin: 10px auto;
+  overflow-y: scroll;
+  position: static;
+}
+
+thead th {
+  background: #88CCF1;
+  color: #FFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #f4f7f8;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 600;
+  color: darkslategray;
+  direction: rtl;    
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.word-pic {
+  background-color: #FFF;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+}

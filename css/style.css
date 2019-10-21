@@ -4,6 +4,16 @@ body {
   padding: 0;
 }
 
+h2 {
+  font-family: 'Katibeh', cursive;
+  font-size: 50px;
+  padding: 10;
+  text-align: center;
+  letter-spacing: 6px;
+  color: white;
+  background-color: #4E82AB;
+}
+
 table {
   height: 50%;
   left: 10%;
@@ -42,4 +52,5 @@ th, td {
   background-color: #FFF;
   border: 1px solid #DDD;
   border-radius: 3px;
+  margin: 4px;
 }

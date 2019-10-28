@@ -44,3 +44,18 @@ th, td {
   border-radius: 3px;
   margin: 4px;
 }
+
+div.lesson-link {
+  font-family: 'Katibeh', cursive;
+  font-size: 45px;
+  font-weight: 600;
+  text-align: center;
+  direction: ltr;
+}
+
+div.top-nav {
+  font-family: 'Katibeh', cursive;
+  font-size: 45px;
+  font-weight: 600;
+  text-align: center;   
+}

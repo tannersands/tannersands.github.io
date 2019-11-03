@@ -19,7 +19,7 @@ table {
   left: 10%;
   margin: 10px auto;
   overflow-y: scroll;
-  position: static;
+  position: static;    
 }
 
 tr {
@@ -36,6 +36,36 @@ th, td {
   padding: 10px;
   font-size: 30px;
   text-align: center;
+}
+
+.square-1 {
+  color: crimson;
+  font-size: 40px;
+}
+
+.square-2 {
+  color: cornflowerblue;
+  font-size: 40px;
+}
+
+.square-3 {
+  color: forestgreen;
+  font-size: 40px;
+}
+
+.square-4 {
+  color: rebeccapurple;
+  font-size: 40px;
+}
+
+.square-5 {
+  color: gold;
+  font-size: 40px;
+}
+
+.square-6 {
+  color: orange;
+  font-size: 40px;
 }
 
 .word-pic {
